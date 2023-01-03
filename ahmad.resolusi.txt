@@ -1,0 +1,5 @@
+Halo nama saya Ahmad
+
+REsolusi saya :
+- Membuat website dengan html, css, javascript yang responsif
+- Mendapat pekerjaan yang berhubungan dengan web development
